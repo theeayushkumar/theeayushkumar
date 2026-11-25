@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar</h1>
 
 <h3 align="center">
-Data Analytics | Data Science | Data Engineering | Business Intelligence | AI
+Aspiring Data Analyst | Business Intelligence | Data Visualization
 </h3>
 
 <p align="center">
@@ -17,11 +17,14 @@ Data Analytics | Data Science | Data Engineering | Business Intelligence | AI
 
 ## 👨‍💻 About Me
 
-- 📊 Passionate about Data Analytics, Business Intelligence, Data Science, Data Engineering and AI.
+## 👨‍💻 About Me
+
+- 📊 Passionate about Data Analytics, Business Intelligence and Data Visualization.
 - 💻 Previous experience in Frontend Development.
 - 🌱 Developing practical skills in Python, SQL, Excel, Power BI and Tableau.
-- 🔍 Interested in Data Cleaning, Exploratory Data Analysis, Statistics and Data Visualization.
-- 🎯 Open to entry-level opportunities in data and analytics.
+- 🔍 Interested in Data Cleaning, Exploratory Data Analysis and Statistics.
+- 🤖 Exploring Data Science, Data Engineering and AI.
+- 🎯 Open to entry-level Data Analyst opportunities.
 
 ## 🛠️ Languages & Tools
 
