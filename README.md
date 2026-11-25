@@ -17,8 +17,6 @@ Aspiring Data Analyst | Business Intelligence | Data Visualization
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 - 📊 Passionate about Data Analytics, Business Intelligence and Data Visualization.
 - 💻 Previous experience in Frontend Development.
 - 🌱 Developing practical skills in Python, SQL, Excel, Power BI and Tableau.
